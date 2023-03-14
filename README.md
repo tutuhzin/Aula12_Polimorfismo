@@ -1,4 +1,4 @@
-# Aula12 Poliomorfismo
+# Aula 12 de Polimorfismo
 
-Exercício sobre Poliomorfismo.
-Exercício para treinar sobre poliomorfismo em Java - POO (Programação a orientada à Objeto)
+Exercício sobre Polimorfismo.
+Exercício para treinar sobre polimorfismo em Java - POO (Programação a orientada à Objeto)
